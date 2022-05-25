@@ -14,6 +14,6 @@
 
 <p>Most of the projects here were created for educational and testing purposes, as well as to consolidate and demonstrate the acquired knowledge.</p>
 
-[![Microservice Architecture](https://github-readme-stats.vercel.app/api/pin/?username=roman-bilyak&repo=microservice.architecture)](https://github.com/roman.bilyak/microservice.architecture)
+[![Microservice Architecture](https://github-readme-stats.vercel.app/api/pin/?username=roman-bilyak&repo=microservice.architecture)](https://github.com/roman-bilyak/microservice.architecture)
 
 <!--https://github.com/anuraghazra/github-readme-stats-->
