@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="left">
+  <strong> Hi, I'm Roman Bilyak!</strong>
+</h1>
 
-<!--
-**roman-bilyak/roman-bilyak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>I am a software developer with more than 15 years of experience in developing desktop and web-based applications. I have strong background in object-oriented programming and solid skills in C# .NET programming.</p>
 
-Here are some ideas to get you started:
+<p>I enjoy working with technologies include .NET Core, C#, MS SQL, Angular, Docker, Kubernates and Azure Cloud.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>Most of the projects here were created for educational and testing purposes, as well as to consolidate and demonstrate the acquired knowledge.</p>
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=roman-bilyak&stheme=buefy&how_icons=true&hide=issues&count_private=true" alt="Roman Bilyak" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roman-bilyak&theme=buefy&layout=compact&hide=css" />
+  <img align="right" height="1em" width="1em" src = "https://profile-counter.glitch.me/roman-bilyak/count.svg" alt ="Loading">
+</p>
