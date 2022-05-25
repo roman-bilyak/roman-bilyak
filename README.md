@@ -8,7 +8,7 @@
 
 <p>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=roman-bilyak&stheme=buefy&show_icons=true&hide=issues&custom_title=GitHub's Stats&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roman-bilyak&theme=buefy&layout=compact&exclude_repo=roman-bilyak&langs_count=10" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roman-bilyak&theme=buefy&layout=compact&exclude_repo=roman-bilyak&langs_count=8" />
   <img align="right" height="1em" width="1em" src = "https://profile-counter.glitch.me/roman-bilyak/count.svg">
 </p>
 
