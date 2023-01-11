@@ -2,6 +2,8 @@
   <strong> Hi, I'm Roman Bilyak!</strong>
 </h1>
 
+[![](https://img.shields.io/badge/-Roman%20Bilyak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roman-bilyak/)](https://www.linkedin.com/in/roman-bilyak/)
+
 <p>I am a software developer with more than 15 years of experience in developing desktop and web-based applications. I have strong background in object-oriented programming and solid skills in C# .NET programming.</p>
 
 <p>I enjoy working with technologies include <b>.NET Core</b>, <b>C#</b>, <b>MS SQL</b>, <b>Angular</b>, <b>Docker</b>, <b>Kubernates</b> and <b>Azure Cloud</b>.</p>
